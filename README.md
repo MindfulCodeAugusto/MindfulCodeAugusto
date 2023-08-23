@@ -28,3 +28,7 @@
 🚀 No meu tempo livre, gosto de explorar projetos pessoais que me permitem aprender e crescer como desenvolvedor. Também sou apaixonado por compartilhar conhecimento e colaborar com a comunidade de código aberto.
 
 🌟 Estou animado para aprender, colaborar e construir um futuro tecnológico empolgante. 
+
+
+
+![snake gif](https://github.com/MindfulCodeAugusto/MindfulCodeAugusto/blob/output/github-contribution-grid-snake.svg)
