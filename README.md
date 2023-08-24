@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.aaugust_/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-augusto-922404279/)
 
-![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=MindfulCodeAugusto&show_icons=true&theme=onedark)
+![Augusto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoDevK&show_icons=true&theme=onedark)
 
 ### Tecnologias que uso no meu dia
 
@@ -31,4 +31,4 @@
 
 
 
-![snake gif](https://github.com/MindfulCodeAugusto/MindfulCodeAugusto/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AugustoDevK/AugustoDevK/blob/output/github-contribution-grid-snake.svg)
