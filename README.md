@@ -17,18 +17,5 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-### Biografia detalhada:
+🎓 Atualmente no 3º semestre do curso de Ciência da Computação na Universidade Federal do Ceará (UFC). 💻💡
 
-👋 Olá, eu sou o Augusto, um entusiasta da computação no 3º semestre do curso de Ciência da Computação na Universidade Federal do Ceará (UFC). 💻💡
-
-🎓 Atualmente mergulhando fundo no mundo da lógica e dos algoritmos, estou em uma jornada emocionante para aprofundar meu conhecimento em programação, desenvolvimento de software e solução de problemas.
-
-🌐 Além dos projetos da faculdade, estou sempre explorando novas tecnologias e linguagens de programação para ampliar minhas habilidades. Gosto de transformar ideias em código e criar soluções que possam fazer a diferença.
-
-🚀 No meu tempo livre, gosto de explorar projetos pessoais que me permitem aprender e crescer como desenvolvedor. Também sou apaixonado por compartilhar conhecimento e colaborar com a comunidade de código aberto.
-
-🌟 Estou animado para aprender, colaborar e construir um futuro tecnológico empolgante. 
-
-
-
-![snake gif](https://github.com/AugustoDevK/AugustoDevK/blob/output/github-contribution-grid-snake.svg)
