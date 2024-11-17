@@ -18,5 +18,5 @@
 
 ### Cursoㅤㅤㅤㅤㅤㅤㅤㅤ
 
-🎓 Atualmente no 4º semestre do curso de Ciência da Computação na Universidade Federal do Ceará (UFC). 💻💡
+🎓 Atualmente no 5º semestre do curso de Ciência da Computação na Universidade Federal do Ceará (UFC). 💻💡
 
